@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525363198880",
+    "project_id": "the-project-9103f",
+    "storage_bucket": "the-project-9103f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525363198880:android:802c9dd89379f2b26102c5",
+        "android_client_info": {
+          "package_name": "sk.tuke.smart.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525363198880-366ense3ahcs77iej2anq4pgo88hu6ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4vMA6tqQkl-8WtX4tUR5F1aKdVQPxGQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525363198880-366ense3ahcs77iej2anq4pgo88hu6ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
